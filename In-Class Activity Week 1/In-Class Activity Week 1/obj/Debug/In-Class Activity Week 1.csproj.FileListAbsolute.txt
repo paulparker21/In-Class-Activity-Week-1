@@ -1,0 +1,10 @@
+C:\Users\Paulp\source\repos\In-Class Activity Week 1\In-Class Activity Week 1\bin\Debug\In-Class Activity Week 1.exe.config
+C:\Users\Paulp\source\repos\In-Class Activity Week 1\In-Class Activity Week 1\bin\Debug\In-Class Activity Week 1.exe
+C:\Users\Paulp\source\repos\In-Class Activity Week 1\In-Class Activity Week 1\bin\Debug\In-Class Activity Week 1.pdb
+C:\Users\Paulp\source\repos\In-Class Activity Week 1\In-Class Activity Week 1\obj\Debug\In-Class Activity Week 1.csprojAssemblyReference.cache
+C:\Users\Paulp\source\repos\In-Class Activity Week 1\In-Class Activity Week 1\obj\Debug\In_Class_Activity_Week_1.Properties.Resources.resources
+C:\Users\Paulp\source\repos\In-Class Activity Week 1\In-Class Activity Week 1\obj\Debug\In-Class Activity Week 1.csproj.GenerateResource.cache
+C:\Users\Paulp\source\repos\In-Class Activity Week 1\In-Class Activity Week 1\obj\Debug\In-Class Activity Week 1.csproj.CoreCompileInputs.cache
+C:\Users\Paulp\source\repos\In-Class Activity Week 1\In-Class Activity Week 1\obj\Debug\In-Class Activity Week 1.exe
+C:\Users\Paulp\source\repos\In-Class Activity Week 1\In-Class Activity Week 1\obj\Debug\In-Class Activity Week 1.pdb
+C:\Users\Paulp\source\repos\In-Class Activity Week 1\In-Class Activity Week 1\obj\Debug\In_Class_Activity_Week_1.Userinput.resources
